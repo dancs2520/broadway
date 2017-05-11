@@ -32,12 +32,12 @@ p {
 	color:white;
 }
 
-.footer-bg {
+.footer-box {
 	background-color: dimgray;
+   text-align: left;
 }
 
-.footer {
-   text-align: left;
+.footer-copyright {
 	font-size: 11px;
 	color: white;
 }
