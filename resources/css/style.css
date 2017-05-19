@@ -22,19 +22,23 @@ p {
 	font-size: 14px;
 }
 
-header {
-	display: flex;
-	font-family: Verdana;
-	font-size: 14px;
-	font-weight: bold;
+.links {
+	font-size: 18px;
+	color: white;
 }
 
-nav {
-	display: flex;
+.image-headers {
+	background-image: url("../images/the-flatiron-building.png");
+	background-size: cover;
+	color:white;
 }
 
-.logo {
-	display: flex;
-	color:MediumAquamarine;
+.footer-box {
+	background-color: dimgray;
+   text-align: left;
 }
 
+.footer-copyright {
+	font-size: 11px;
+	color: white;
+}
